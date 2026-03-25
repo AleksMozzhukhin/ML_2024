@@ -2,3 +2,16 @@
 .venv
 bulkin_dl
 malt
+*.txt
+*/*/05-SVM
+*/*/*/05-SVM
+*/*/*/public_tests
+Yandex Studcamp
+Yandex_training
+Volkov_task
+*/*/*/run.py
+*/*/*/*/run.py
+*/*/*/test.py
+*/*/*/*/public_tests
+tmp
+*/*/*/*/tests/
